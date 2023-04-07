@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "nobo",
+      "profession": "developer",
+      "email": "nobo@gmail.com",
+      "phone": 7387828728,
+      "address": "Ernakulam, kochi"
+    },
+    {
+      "name": "Karnan",
+      "profession": "Warrior",
+      "email": "karnan@gmail.com",
+      "phone": "222222",
+      "address": "Kosla, India",
+      "id": 3
+    },
+    {
+      "name": "Tom Bablu",
+      "profession": "Actor",
+      "email": "holland@gmail.com",
+      "phone": "9384732829",
+      "address": "Noway, USA",
+      "id": 5
+    },
+    {
+      "name": "papoo",
+      "profession": "dancer",
+      "email": "papoo@gmail.com",
+      "phone": "222222",
+      "address": "nowhere, universe",
+      "id": 6
+    },
+    {
+      "name": "zee cinema",
+      "profession": "actor",
+      "email": "zcinema@gmail.com",
+      "phone": "777",
+      "address": "hollywood",
+      "id": 8
+    },
+    {
+      "name": "nora",
+      "profession": "developer",
+      "email": "nora@gmail.com",
+      "phone": "748398",
+      "address": "wonderland",
+      "id": 9
+    },
+    {
+      "name": "noz",
+      "profession": "nothing",
+      "email": "noz@gmail.com",
+      "phone": "888",
+      "address": "nowhere",
+      "id": 10
+    }
+  ]
+}
